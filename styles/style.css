@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One&family=Sarpanch:wght@400;500;600;700;800;900&display=swap');
+body {
+    font-family: Bowlby One, Sarpanch, 'Times New Roman', Times, serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+
+.visit {
+    position: relative;
+    width: 450px;
+    height: 630px;
+    border: 2px solid #000;
+    margin: 20px auto;
+    padding: 0px 0px;
+    box-sizing: border-box;
+    color: #fff;
+    background-color: #000;
+}
+
+
+.prof {
+    font-size: 37px;
+    margin-top: 34px;
+    font-family: Bowlby One;
+    color: #F92677;
+}
+
+
+.name {
+    font-size: 35px;
+    padding-left: 14px;
+    margin-top:40px;
+    font-family: Sarpanch;
+}
+
+
+
+.info {
+    padding-left: 28px;
+    margin-top: 35px;
+    bottom: 0;
+    left: 0;
+    font-family: Sarpanch;
+}
+
+a {
+    color: #fff;
+    font-size: 20px;
+    display: block;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+.picture{
+    height: 300px;
+    margin-left: -1.5px;
+    margin-top: 34px;
+}
+
+img {
+
+}
